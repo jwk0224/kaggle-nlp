@@ -1,4 +1,4 @@
-# nlp-lstm
+# kaggle-nlp
 
 Deep learning model using LSTM that predicts which Tweets are about real disasters and which one’s aren’t
 
